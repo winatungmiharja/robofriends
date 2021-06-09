@@ -1,5 +1,9 @@
 # `Check out!`
-View [Website](https://winatungmiharja.github.io/robofriends/)
+Since it has some personal/sensitive data, i wont be publishing it online/github pages
+In case you wonder, here is the preview
+
+https://user-images.githubusercontent.com/64743796/121398142-00279600-c990-11eb-8b5e-c3cd39e8f72c.mp4
+
 
 # `Overview`
 A **Database** made from React.App.
